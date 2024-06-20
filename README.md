@@ -2,7 +2,7 @@
 Certainly! Here's a more detailed version of the README file for your GitHub repository, which includes a comprehensive overview of the project, its real-world applications, and how the model can be utilized.
 
 ### README.md Content:
-```markdown
+
 # Facial-Expression-Classifier
 
 ## Project Overview
@@ -16,9 +16,7 @@ This GitHub repository houses a deep learning project designed to classify facia
 ## Installation
 To set up this project, you need Python 3.x and the following packages. Install them using pip:
 
-```bash
-pip install tensorflow keras numpy matplotlib opencv-python
-```
+
 
 ## Dataset
 The model is trained on a robust dataset of facial images labeled as either 'happy' or 'sad'. This dataset was curated to include a diverse range of individuals, lighting conditions, and backgrounds to ensure the model's effectiveness across different real-world scenarios.
@@ -55,7 +53,8 @@ This project is made available under the MIT License. For more details, see the 
 
 ## Acknowledgments
 Thank you to all the contributors who have invested their time and effort in improving this project. Special thanks to [Dataset Source/Research Group Name] for providing the initial training data.
-```
+
+
 
 ### Explanation of Enhancements:
 - **Detailed Project Overview**: Expanded the description of the project's purpose and its importance in understanding human emotions through machine learning.
